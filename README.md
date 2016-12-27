@@ -1,19 +1,20 @@
-```AWS CLOUDWATCH LOG```
+# AWS CLOUDWATCH LOG
 
-`Simple nodejs logs for aws`
+## Simple nodejs logs for aws
 
-Start:
-
+### Start:
+```
 1- npm install
 2- nano .env --> configure variables
 3- npm start
+```
 
-```Enjoy it!```
-
-`.env variables`
-
-LOG_REGION=aws region
-LOG_GROUP=container group
+### .env variables
+```
+LOG_REGION=aws_region
+LOG_GROUP=container_group
 LOG_NAME=instance
-BRANCH=master / develop
-ENVIROMENT=prod / test
+BRANCH=master | develop
+ENVIROMENT=prod | test
+```
+Enjoy it!
