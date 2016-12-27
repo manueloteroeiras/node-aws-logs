@@ -4,7 +4,7 @@
 
 Start:
 
-1- npm install
+1- npm install\n
 2- nano .env --> configure variables
 3- npm start
 
